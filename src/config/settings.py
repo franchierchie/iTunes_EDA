@@ -1,2 +1,3 @@
 RAW_DATA = 'data/itunes_music_dataset.csv'
 REQUIRED_RAW_COLUMNS = {'track_id', 'track_name', 'artist_name', 'collection_name', 'album_artist', 'genre', 'rating', 'track_price', 'collection_price', 'release_date', 'track_time_millis', 'country', 'currency', 'preview_url', 'artwork_url'}
+REPORTS_DIR_PATH= 'reports'
